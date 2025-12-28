@@ -23,9 +23,9 @@ Here are some of the most preferred technologies I work with:
 
 # My GitHub Stats 📊
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrik-bajzik&theme=radical&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrik-bajzik&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Patri22k&theme=radical&hide=other)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=patrik-bajzik&theme=radical&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=patrik-bajzik&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Patri22k&theme=radical&hide=other)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact Me 📫
 
