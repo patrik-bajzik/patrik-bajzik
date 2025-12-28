@@ -50,7 +50,7 @@ feel free to reach out.
 
 Your support means a lot and helps me continue doing what I love. Thank you!
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://ko-fi.com/patrik_bajzik">
     <img 
       src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF5E99?style=for-the-badge&logo=kofi&logoColor=white"
