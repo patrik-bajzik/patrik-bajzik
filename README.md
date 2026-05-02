@@ -1,9 +1,16 @@
-<p align="center" style="background-color:white; padding:10px; border-radius:8px;">
-    <img
-        src="https://media.tenor.com/R-muyCtDWBsAAAAi/butterfly-effect-life-is-strange.gif"
-        width="100"
-        alt="Butterfly icon"
-    />
+<p align="center">
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="./assets/butterfly-effect-life-is-strange.gif"
+        />
+        <img
+            src="./assets/butterfly-effect-life-is-strange.gif"
+            width="97"
+            height="98,5"
+            alt="Butterfly icon"
+        />
+    </picture>
 </p>
 
 Hi, my name is **Patrik Bajzík**, and I am:
