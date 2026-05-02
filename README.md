@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color:white; padding:10px; border-radius:8px;">
     <img
         src="https://media.tenor.com/R-muyCtDWBsAAAAi/butterfly-effect-life-is-strange.gif"
         width="100"
