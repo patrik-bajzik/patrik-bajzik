@@ -2,10 +2,10 @@
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
-            srcset="./assets/butterfly-effect-life-is-strange.gif"
+            srcset="assets/butterfly-effect-lis-white.gif"
         />
         <img
-            src="./assets/butterfly-effect-life-is-strange.gif"
+            src="assets/butterfly-effect-lis-white.gif"
             width="97"
             height="98,5"
             alt="Butterfly icon"
