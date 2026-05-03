@@ -6,8 +6,6 @@
         />
         <img
             src="assets/butterfly-effect-lis-white.gif"
-            width="97"
-            height="98,5"
             alt="Butterfly icon"
         />
     </picture>
