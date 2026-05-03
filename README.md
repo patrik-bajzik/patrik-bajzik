@@ -4,6 +4,10 @@
             media="(prefers-color-scheme: dark)"
             srcset="assets/butterfly-effect-lis-white.gif"
         />
+        <source
+            media="(prefers-color-scheme: white)"
+            srcset="assets/butterfly-effect-lis-black.gif"
+        />
         <img
             src="assets/butterfly-effect-lis-white.gif"
             alt="Butterfly icon"
