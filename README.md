@@ -5,7 +5,7 @@
             srcset="assets/butterfly-effect-lis-white.gif"
         />
         <source
-            media="(prefers-color-scheme: white)"
+            media="(prefers-color-scheme: light)"
             srcset="assets/butterfly-effect-lis-black.gif"
         />
         <img
