@@ -59,7 +59,7 @@ in Power BI
 
 # My Statistics 📊
 
-[![Wakatime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Patri22k&theme=radical&hide=other)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=patrik_bajzik&theme=radical&hide=other)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact Me 📫
 
